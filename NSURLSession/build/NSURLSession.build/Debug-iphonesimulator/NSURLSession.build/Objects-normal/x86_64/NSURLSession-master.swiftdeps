@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "b20499612f4ac06c77b559940c5bc28f"
+build_time: [522927007, 827308000]
+inputs:
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/PopupController.swift": [520612498, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/CustomTextField.swift": [522920210, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/AddNewContactVC.swift": !dirty [522926969, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/Person.swift": [522866238, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/AppDelegate.swift": [522920517, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/ContactListVC.swift": [522926207, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/CellLabel.swift": [522861506, 0]
+  "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/NSURLSession/DetailContactCell.swift": [522923377, 0]

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/PopupController.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Pods.build/Debug-iphonesimulator/PopupController.build/unextended-module.modulemap',
+    }]
+  }]
+}

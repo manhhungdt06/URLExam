@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/Pods_NSURLSession.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-NSURLSession-umbrella.h",
+          'external-contents': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/Pods/Target Support Files/Pods-NSURLSession/Pods-NSURLSession-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_NSURLSession-Swift.h",
+          'external-contents': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/Pods_NSURLSession.framework/Headers/Pods_NSURLSession-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/Pods_NSURLSession.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Pods.build/Debug-iphonesimulator/Pods-NSURLSession.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/PopupController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PopupController-Swift.h",
+          'external-contents': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/PopupController.framework/Headers/PopupController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PopupController-umbrella.h",
+          'external-contents': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/Pods/Target Support Files/PopupController/PopupController-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Debug-iphonesimulator/PopupController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Data/Techmaster-lessons/NSURLSession/NSURLSession/build/Pods.build/Debug-iphonesimulator/PopupController.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
