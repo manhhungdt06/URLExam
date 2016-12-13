@@ -33,4 +33,12 @@ class Object: NSObject {
         self.email = email
         
     }
+    
+    init(id: String, name: String, address: String, phoneNum: Int, email: String) {
+        self.id = id
+        self.name = name
+        self.address = address
+        self.phoneNum = phoneNum
+        self.email = email
+    }
 }

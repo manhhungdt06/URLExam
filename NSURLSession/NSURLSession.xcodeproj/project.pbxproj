@@ -27,6 +27,7 @@
 		9D2ACE0F1D4896BD007E09C4 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D2ACE0E1D4896BD007E09C4 /* CustomTextField.swift */; };
 		9D6B0D8A1D47B52E006075B1 /* CellLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6B0D891D47B52E006075B1 /* CellLabel.swift */; };
 		E222BE931DFE52AA0028954A /* Object.swift in Sources */ = {isa = PBXBuildFile; fileRef = E222BE921DFE52AA0028954A /* Object.swift */; };
+		E29818C91DFFF9FB00A3EBCB /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E29818C81DFFF9FB00A3EBCB /* EditViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		9D2ACE0E1D4896BD007E09C4 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		9D6B0D891D47B52E006075B1 /* CellLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellLabel.swift; sourceTree = "<group>"; };
 		E222BE921DFE52AA0028954A /* Object.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Object.swift; sourceTree = "<group>"; };
+		E29818C81DFFF9FB00A3EBCB /* EditViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				9D26E5D71D4753840056F0EB /* AppDelegate.swift */,
 				9D26E5EB1D47711A0056F0EB /* ContactListVC.swift */,
 				9D2ACE0C1D48950B007E09C4 /* AddNewContactVC.swift */,
+				E29818C81DFFF9FB00A3EBCB /* EditViewController.swift */,
 				9D26E5DB1D4753840056F0EB /* Main.storyboard */,
 				9D6B0D881D47B505006075B1 /* Custom View */,
 				9D6B0D8B1D47B719006075B1 /* Model */,
@@ -222,6 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E29818C91DFFF9FB00A3EBCB /* EditViewController.swift in Sources */,
 				9D2ACE0F1D4896BD007E09C4 /* CustomTextField.swift in Sources */,
 				9D2ACE0D1D48950B007E09C4 /* AddNewContactVC.swift in Sources */,
 				E222BE931DFE52AA0028954A /* Object.swift in Sources */,
